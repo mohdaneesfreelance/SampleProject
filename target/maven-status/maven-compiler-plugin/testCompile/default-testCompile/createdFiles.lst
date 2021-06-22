@@ -1,0 +1,8 @@
+com/cimb/webautomation/pages/ToolsPage.class
+com/cimb/webautomation/pages/UrlLandingPage.class
+com/cimb/webautomation/RunCukesTest.class
+com/cimb/webautomation/pages/PropertyLoanRepaymentCalculator.class
+com/cimb/webautomation/pages/TestBase.class
+com/cimb/webautomation/stepdefinitions/MainSteps.class
+com/cimb/webautomation/pages/CimbDealsPage.class
+com/cimb/webautomation/pages/RentalCarsPage.class
